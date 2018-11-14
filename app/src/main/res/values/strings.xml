@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">SOSApp</string>
+    <string name="tab_text_1">DOAR</string>
+    <string name="tab_text_2">EXIBIR</string>
+    <string name="tab_text_3">SOS</string>
+    <string name="action_settings">Configurações</string>
+    <string name="title_activity_main2">Main2Activity</string>
+
+
+    <string-array name="categoria">
+        <item>Selecione</item>
+        <item>Alimento</item>
+        <item>Material de Higiene</item>
+        <item>Material de Limpeza</item>
+        <item>Medicamento</item>
+        <item>Roupa</item>
+        <item>Calçado</item>
+        <item>Eletrodoméstico</item>
+        <item>Móveis</item>
+        <item>Brinquedos</item>
+        <item>Utensílios Domésticos</item>
+        <item>Diversos</item>
+        <item>Outros</item>
+    </string-array>
+
+
+    <string-array name="formadoacao2">
+        <item>Selecione</item>
+        <item>Entrega na Entidade</item>
+        <item>Entidade Busca</item>
+        <item>Depósito Bancário</item>
+    </string-array>
+
+</resources>

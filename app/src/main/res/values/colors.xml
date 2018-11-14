@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#35485E</color>
+    <color name="colorPrimaryDark">#072738</color>
+    <color name="colorAccent">#7c68e2</color>
+    <color name="divider">#BDBDBD</color>
+    <color name="scrollbar">#546E7A</color>
+
+
+    <color name="colorAccent1">#ffffff</color>
+
+    <color name="ButtonPressed">#546E7A</color>
+    <color name="ButtonNoPressed">#064c6c</color>
+</resources>
